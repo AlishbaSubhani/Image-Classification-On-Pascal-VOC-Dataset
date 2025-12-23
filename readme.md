@@ -11,6 +11,7 @@ Number of Classes: 20
 Each image may contain multiple object labels.
 
 Each class is treated as a separate binary classification task (one-vs-rest).
+
 **Setup Guide**
 1. Environment Requirements:
 - Python 3.8 or higher
